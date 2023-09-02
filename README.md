@@ -2,7 +2,7 @@
 
 Aduty is a FiveM resource that allows players with specific permissions to toggle their duty status. When a player is on duty, they will have access to certain features or abilities in the game.
 
-Showcase:[YouTube](https://www.youtube.com/watch?v=I3s4MHwtdU0)
+Showcase:[YouTube]([https://www.youtube.com/watch?v=I3s4MHwtdU0](https://youtu.be/6lWM1KtjhtQ))
 ## Features
 
 - Toggle duty status: Players with the appropriate permissions can use the `/aduty` command to switch between on-duty and off-duty status.
