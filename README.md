@@ -1,27 +1,41 @@
-# GTA V Player Info Display
-This script is an extension for the popular multiplayer game "Grand Theft Auto V" (GTA V), developed to enhance interaction and role-playing experience on GTA V servers. It allows for displaying crucial information about other players above their heads, promoting immersion and communication on the server.
+# ADuty Resource
 
-# Key Features
-Player Information: Displays information about other players, including:
+Aduty is a FiveM resource that allows players with specific permissions to toggle their duty status. When a player is on duty, they will have access to certain features or abilities in the game.
 
-# Player ID
-Player Name
-Occupation or Job
-Health and Armor Display: Shows real-time health and armor status of each player.
+Showcase:[YouTube](https://www.youtube.com/watch?v=I3s4MHwtdU0)
+## Features
 
-Customizable Configuration: Enables server administrators to tailor display options to their server's needs.
+- Toggle duty status: Players with the appropriate permissions can use the `/aduty` command to switch between on-duty and off-duty status.
+- Uniform and God Mode: When a player goes on duty, their character will be equipped with a predefined uniform and enabled God Mode for added protection.
+- Permission Control: Only players with the 'license' have access to the `/aduty` command.
 
-# God Mode Status: Activates the display when a player enters "God Mode."
+## Installation
 
-# Admin Clothing: Administrators can select special admin clothing for their character to highlight their role.
+1. Download the Aduty resource from [GitHub]([https://github.com/EinfachJustin/j_adminduty]).
+2. Place the `j_aduty` folder in your FiveM server's `resources` directory.
+3. Configure the config the `config.lua` file.
+4. Add `ensure j_aduty` to your server.cfg file to start the resource when the server launches.
 
-# Usage
-To use this script on your GTA V server, simply add it to your server resources and restart the server. The display will automatically activate when "God Mode" is enabled.
+## Configuration
 
-For more information on configuration and customization, refer to the [documentation](link to documentation).
+The configuration file (`config.lua`) allows you to customize the resource's behavior and permissions.
 
-# License
-This script is released under the MIT License. For more information, see the [license file](link to license file).
 
-# Support and Contributions
-We welcome support and contributions to improve this script. If you have suggestions or wish to report issues, please create an issue or a pull request.
+## Usage
+
+To use the ADuty resource in-game:
+
+1. Log in to your server as a player with the appropriate permissions.
+2. Press the assigned command key (default is `/aduty`) to toggle your duty status.
+3. When going on duty, your character will be equipped with a uniform and enabled God Mode.
+4. When going off duty, your character will revert to their previous clothing and God Mode will be disabled.
+
+## Credits
+
+- Author: Justin 
+- Discord: e1nfachjustin
+- GitHub Repository: [Link to GitHub Repository](https://github.com/EinfachJustin/j_adminduty)
+
+## License
+
+This resource is released under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
