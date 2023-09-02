@@ -1,4 +1,4 @@
-#GTA V Player Info Display
+##GTA V Player Info Display
 This script is an extension for the popular multiplayer game "Grand Theft Auto V" (GTA V), developed to enhance interaction and role-playing experience on GTA V servers. It allows for displaying crucial information about other players above their heads, promoting immersion and communication on the server.
 
 #Key Features
