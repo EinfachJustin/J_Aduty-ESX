@@ -11,7 +11,7 @@ Showcase:[YouTube]([https://youtu.be/6lWM1KtjhtQ)
 
 ## Installation
 
-1. Download the Aduty resource from [GitHub]([[https://github.com/EinfachJustin/j_adminduty]](https://github.com/EinfachJustin/J_Aduty-ESX)).
+1. Download the Aduty resource from [GitHub]([https://github.com/EinfachJustin/j_adminduty]](https://github.com/EinfachJustin/J_Aduty-ESX)).
 2. Place the `j_aduty` folder in your FiveM server's `resources` directory.
 3. Configure the config the `config.lua` file.
 4. Add `ensure j_aduty` to your server.cfg file to start the resource when the server launches.
